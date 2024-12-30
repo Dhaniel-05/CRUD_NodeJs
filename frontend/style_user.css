@@ -1,0 +1,20 @@
+.header-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#btnLogout {
+    background-color: #e74c3c;
+}
+
+#btnLogout:hover {
+    background-color: #c0392b;
+}
+
+small {
+    color: #666;
+    font-size: 12px;
+    margin-top: 4px;
+    display: block;
+}
